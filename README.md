@@ -40,13 +40,13 @@ Users can select a path display type in the drop down menu, and enter the number
 ## Images
 
 
-![path1](https://github.com/LC-Linkous/matplotlib-wxpython-example/blob/master/imgs/connected-example.PNG)
+![path1](https://github.com/LC-Linkous/Example_Matplotlib-wxPython/blob/master/imgs/connected-example.PNG | width="250")
 
 
-![path2](https://github.com/LC-Linkous/matplotlib-wxpython-example/blob/master/imgs/unconnected-example.PNG?raw=true)
+![path2](https://github.com/LC-Linkous/Example_Matplotlib-wxPython/blob/master/imgs/unconnected-example.PNG | width="250")
 
 
-![path3](https://github.com/LC-Linkous/matplotlib-wxpython-example/blob/master/imgs/single-example.PNG?raw=true)
+![path3](https://github.com/LC-Linkous/Example_Matplotlib-wxPython/blob/master/imgs/single-example.PNG | width="250")
 
 
 ## Future Work 
