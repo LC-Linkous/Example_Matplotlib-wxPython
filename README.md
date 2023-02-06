@@ -46,7 +46,7 @@ Users can select a path display type in the drop down menu, and enter the number
 <img src="https://github.com/LC-Linkous/Example_Matplotlib-wxPython/blob/master/imgs/unconnected-example.PNG" width="250">
 
 <img src="https://github.com/LC-Linkous/Example_Matplotlib-wxPython/blob/master/imgs/single-example.PNG" width="250">
-<\p>
+</p>
 
 ## Future Work 
 This may or may not be updated - it is meant as an example only, not as a fully functioning project. 
