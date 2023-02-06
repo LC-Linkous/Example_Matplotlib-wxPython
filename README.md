@@ -1,4 +1,4 @@
-# matplotlib-wxpython-examlple
+# Example: Matplotlib for 3D Graphing in wxPyhton
 ## Table of contents
 * [Project Description](#Project-Description)
 * [Requirements](#Requirements)
@@ -39,13 +39,14 @@ Users can select a path display type in the drop down menu, and enter the number
 
 ## Images
 
+<p align="center">
 
 <img src="https://github.com/LC-Linkous/Example_Matplotlib-wxPython/blob/master/imgs/connected-example.PNG" width="250">
 
 <img src="https://github.com/LC-Linkous/Example_Matplotlib-wxPython/blob/master/imgs/unconnected-example.PNG" width="250">
 
 <img src="https://github.com/LC-Linkous/Example_Matplotlib-wxPython/blob/master/imgs/single-example.PNG" width="250">
-
+<\p>
 
 ## Future Work 
 This may or may not be updated - it is meant as an example only, not as a fully functioning project. 
